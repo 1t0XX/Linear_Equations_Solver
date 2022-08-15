@@ -1,0 +1,222 @@
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation <init>
+CONFIG: 
+    1.00     1.00     2.00     9.00
+    0.00     1.00     3.00     1.00
+    0.00     0.00     6.00     0.00
+    0.00     0.00     0.00     7.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: Stage One for index 0
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: 
+    1.00     1.00     2.00     9.00
+    0.00     1.00     3.00     1.00
+    0.00     0.00     6.00     0.00
+    0.00     0.00     0.00     7.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: 
+    1.00     1.00     2.00     9.00
+    0.00     1.00     3.00     1.00
+    0.00     0.00     6.00     0.00
+    0.00     0.00     0.00     7.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: Stage One for index 5
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: 
+    1.00     1.00     2.00     9.00
+    0.00     1.00     3.00     1.00
+    0.00     0.00     6.00     0.00
+    0.00     0.00     0.00     7.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: 
+    1.00     1.00     2.00     9.00
+    0.00     1.00     3.00     1.00
+    0.00     0.00     6.00     0.00
+    0.00     0.00     0.00     7.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: Stage One for index 10
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: 
+    1.00     1.00     2.00     9.00
+    0.00     1.00     3.00     1.00
+    0.00     0.00     1.00     0.00
+    0.00     0.00     0.00     7.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: 
+    1.00     1.00     2.00     9.00
+    0.00     1.00     3.00     1.00
+    0.00     0.00     1.00     0.00
+    0.00     0.00     0.00     7.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: Stage One for index 15
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: 
+    1.00     1.00     2.00     9.00
+    0.00     1.00     3.00     1.00
+    0.00     0.00     1.00     0.00
+    0.00     0.00     0.00     1.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: 
+    1.00     1.00     2.00     9.00
+    0.00     1.00     3.00     1.00
+    0.00     0.00     1.00     0.00
+    0.00     0.00     0.00     1.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation <init>
+CONFIG: 
+    1.00     1.00     2.00     9.00
+    0.00     1.00     3.00     1.00
+    0.00     2.00     6.00     2.00
+    0.00     0.00     0.00     0.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: Stage One for index 0
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: 
+    1.00     1.00     2.00     9.00
+    0.00     1.00     3.00     1.00
+    0.00     2.00     6.00     2.00
+    0.00     0.00     0.00     0.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: 
+    1.00     1.00     2.00     9.00
+    0.00     1.00     3.00     1.00
+    0.00     2.00     6.00     2.00
+    0.00     0.00     0.00     0.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: Stage One for index 5
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: 
+    1.00     1.00     2.00     9.00
+    0.00     1.00     3.00     1.00
+    0.00     2.00     6.00     2.00
+    0.00     0.00     0.00     0.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: 
+    1.00     1.00     2.00     9.00
+    0.00     1.00     3.00     1.00
+    0.00     0.00     0.00     0.00
+    0.00     0.00     0.00     0.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation isManySolutions
+FINE: Significant Equations: 2
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation isManySolutions
+FINE: Significant Variables: 3
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation <init>
+CONFIG: 
+    1.00     1.00     2.00     9.00     7.00
+    0.00     1.00     3.00     1.00     2.00
+    0.00     2.00     6.00     2.00     9.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: Stage One for index 0
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: 
+    1.00     1.00     2.00     9.00     7.00
+    0.00     1.00     3.00     1.00     2.00
+    0.00     2.00     6.00     2.00     9.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: 
+    1.00     1.00     2.00     9.00     7.00
+    0.00     1.00     3.00     1.00     2.00
+    0.00     2.00     6.00     2.00     9.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: Stage One for index 6
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: 
+    1.00     1.00     2.00     9.00     7.00
+    0.00     1.00     3.00     1.00     2.00
+    0.00     2.00     6.00     2.00     9.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: 
+    1.00     1.00     2.00     9.00     7.00
+    0.00     1.00     3.00     1.00     2.00
+    0.00     0.00     0.00     0.00     5.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation <init>
+CONFIG: 
+    1.00     1.00     2.00     9.00     7.00
+    0.00     1.00     3.00     1.00     2.00
+    0.00     2.00     6.00     3.00     9.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: Stage One for index 0
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: 
+    1.00     1.00     2.00     9.00     7.00
+    0.00     1.00     3.00     1.00     2.00
+    0.00     2.00     6.00     3.00     9.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: 
+    1.00     1.00     2.00     9.00     7.00
+    0.00     1.00     3.00     1.00     2.00
+    0.00     2.00     6.00     3.00     9.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: Stage One for index 6
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: 
+    1.00     1.00     2.00     9.00     7.00
+    0.00     1.00     3.00     1.00     2.00
+    0.00     2.00     6.00     3.00     9.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: 
+    1.00     1.00     2.00     9.00     7.00
+    0.00     1.00     3.00     1.00     2.00
+    0.00     0.00     0.00     1.00     5.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation swapCols
+WARNING: Swapping cols...
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: Stage One for index 12
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: 
+    1.00     1.00     9.00     2.00     7.00
+    0.00     1.00     1.00     3.00     2.00
+    0.00     0.00     1.00     0.00     5.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: 
+    1.00     1.00     9.00     2.00     7.00
+    0.00     1.00     1.00     3.00     2.00
+    0.00     0.00     1.00     0.00     5.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation isManySolutions
+FINE: Significant Equations: 3
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation isManySolutions
+FINE: Significant Variables: 4
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation <init>
+CONFIG: 
+    1.00     0.00     0.00     0.00     1.00
+    0.00     0.00     0.00     0.00     0.00
+    1.00     0.00     0.00     0.00     0.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: Stage One for index 0
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: 
+    1.00     0.00     0.00     0.00     1.00
+    0.00     0.00     0.00     0.00     0.00
+    1.00     0.00     0.00     0.00     0.00
+
+Aug 14, 2022 6:21:27 PM solver.v2.LinearEquation stageOne
+FINEST: 
+    1.00     0.00     0.00     0.00     1.00
+    0.00     0.00     0.00     0.00     0.00
+    0.00     0.00     0.00     0.00    -1.00
+
